@@ -10,3 +10,11 @@ Ordner:
 
 /opt/PiCQ/work/test.py
 
+HEADPHONES:
+
+39%
+
+MIC:
+
+25%
+
